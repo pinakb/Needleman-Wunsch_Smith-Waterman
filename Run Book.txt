@@ -1,0 +1,9 @@
+execute main.cpp
+
+enter the following parameters
+
+1) Enter the paths in double "\\" delimited format. (sample paramter file added to the directory)
+2) m is for match penalty
+3) mm is for mismatch penalty
+4) oGap is for openning Gap
+5) gap_ext is for gap extension
